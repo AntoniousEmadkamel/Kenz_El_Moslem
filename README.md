@@ -1,6 +1,6 @@
-# Quaran_APP
+# Kenz_El_Moslem
 
-Quaran_APP is a Flutter mobile application designed to provide a comprehensive, interactive, and visually appealing Islamic experience. The app is structured following best practices for scalable development, with an emphasis on modularity and maintainability.
+Kenz_El_Moslem is a Flutter mobile application designed to provide a comprehensive, interactive, and visually appealing Islamic experience. The app is structured following best practices for scalable development, with an emphasis on modularity and maintainability.
 
 ---
 
@@ -32,17 +32,6 @@ Quaran_APP is a Flutter mobile application designed to provide a comprehensive, 
 
 ---
 
-## Architecture
-
-**Clean Architecture Principles:**
-- The project is designed with maintainability and scalability in mind, inspired by clean architecture philosophies:
-  - **Separation of Concerns:** UI, business logic, and data are separated into different layers and files.
-  - **Modular Widgets:** Each screen (Quran, Hadith, Sebha, Radio, Settings) is encapsulated as its own widget.
-  - **Routing:** Centralized route management for easy navigation and future extensibility.
-  - **Theming:** All theme data is managed in a dedicated file (`theme_data.dart`) for easy updates and consistency.
-
----
-
 ## Technologies Used
 
 - **Flutter**: The core framework for cross-platform mobile development.
@@ -58,8 +47,8 @@ Quaran_APP is a Flutter mobile application designed to provide a comprehensive, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/antonious-emad/Quaran_APP.git
-   cd Quaran_APP
+   git clone https://github.com/AntoniousEmadkamel/Kenz_El_Moslem.git
+   cd Kenz_El_Moslem
    ```
 
 2. **Install dependencies**
@@ -95,9 +84,25 @@ assets/
 ---
 
 ## Screenshots
+<p align="center">
 
-![image alt](https://github.com/antonious-emad/Quaran_APP/blob/master/islami.jpg?raw=true)
-
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/splash-light.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/quran-light.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/sura-content-light.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/tasbeeh-light.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/radio-light.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/ahadeth-light.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/hadeth-content-light.png" width="100"/>
+<br>
+<br>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/splash-dark.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/quran-dark.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/sura-content-dark.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/tasbeeh-dark.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/radio-dark.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/ahadeth-dark.png" width="100"/>
+<img src="https://github.com/AntoniousEmadkamel/Kenz_El_Moslem/blob/master/hadeth-content-dark.png" width="100"/>
+</p>
 ---
 
 ## Contribution
